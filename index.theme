@@ -1,0 +1,5 @@
+[Icon Theme]
+Name = Pointo
+Comment = efficiency red pointer ,using golden number shape.
+Comment[fr]= En plus d'utiliser le nombre d'or dans sa forme, ce pointer a pour but de toujours etre visible, peu importe sur quel fond d'ecran il se balade et aussi pour il ne modifie pas son aspect en fonction de se qu'il survol ,mais seulment pour signaler les clicks des boutons.  
+Example = X_cursor
