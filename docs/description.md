@@ -1,70 +1,60 @@
 ![Logo icon](contents/logo/logo.svg "Software-name logo")
-# Software-name
-**fancy slogan / ex: jQuery — the new JavaScript Wave**
+# Pointo
+**A fancy pointer for mouse cursor**
 
 
 ## 🚩 Intro
-A short summary presentation of what this software is.  
-*(if the name is an acronym or abbreviation, give full meaning)*  
+Efficiency red pointer ,using golden ratio shape and always visible.
 
 
 ## 📋 Glossary
- - Computer  
-	Device working on binaries information.
- - Fire  
-	Ignited gas.
- - Robots  
-	Autonomous machines,made to be slaves of humans.
-
+ - mouse cursor pointer  
+	In computing, its a graphical image symbol on screen that echoes movements of the pointing device, commonly a mouse, touchpad, or stylus pen.
+ - Golden ratio  
+	In mathematics, two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
 
 ## ℹ️ Description
- - the goal of this project
- - Who can be interested by this  project
- - what benefit from using it
- - how it work
+ - the goal is to have an easy eye catch cursor.
+ - easy to see even if its small.
+ - distinct from any colored background.
+ - And of course we want it pretty.
 
 
 ## 📝 Note
- - The software block and freeze when all keys are pressed at same time.  
-	Do Not press all the keyboard keys at same time.
- - If the computer shutdown while using this Software  
-	All the unsaved data will be lost.
- - Do not use a hammer for trying to fix any bugs  
-	It leads to software destruction and may damage your device.
+ - SVG is better for make cursors.  
+	but for X11 we need to convert those to xcursor files.
+ - Not changing appearance according on what it hover it.  
+	The widgets have the responsibility to show what kind of action are possible.
+ - Aspect should change to signal clicks by the pointing device.  
+	But for now this feature is not yet implemented.
 
 
 ## 👉 References:
- - [maxtof photo bank](http://www.maxtof.com)  
-	Website full of interesting photos and text files for related textures images.
- - Cycles and Quasi-Cycles Glosses   
-	Evaluation of  semi-structured system for fully automatics. J. Muresan. Informatics Association 2001, pp. 324–328.
- - [WW2 database](http://www.ww2-ontopia.net)  
-	Pictures and video of the real vehicles.
+ - [Cursor conventions specification](https://www.freedesktop.org/wiki/Specifications/cursor-spec/)  
+	This is a draft specification for cursor naming and usage standard.
+ - [Creating Icon Themes](https://www.linux.org/threads/creating-icon-themes.11826/)  
+	May find it helpful to learn how to change icons, edit them, get more, etc..
+ - [doc.ubuntu-fr](https://doc.ubuntu-fr.org/tutoriel/comment_personnaliser_curseur_souris)  
+	Comment personnaliser ses pointeurs de souris (curseurs).
+ - [Golden_ratio](https://en.wikipedia.org/wiki/Golden_ratio)  
+	Wikipedia explanation about the golden ratio.
+
 
 ## 👀 See also:
- - [Supermax editor](http://www.fenix-sw.com/sm-ed.html)  
-	This software is efficient for editing the files of this project..
- - [countries-db](http://www.countries.com/db)  
-	Unicode countries database related to the countries flags.
- - [pc-lock](http://www.secu.com)  
-	An optional device for improving the security with this software.
+ - [DGLS](https://github.com/N-z0/DGLS)  
+	An hard attempt to make correct **GTK** theme.
+ - [clirico](https://github.com/N-z0/clirico)  
+	A set of clear monochromatic icons, matching with clear styles themes.
+ - [WambaX](https://github.com/N-z0/WambaX)  
+	A legacy style of fast and useful interface.
 
 
 ## 📜 History
- - Origin:
-	- The projet was initiate by [Mark Borello](mailto:mbo@msn.com) for [Frikaia.com](https://www.frikaia.com) but the main creators and author is [Nizi Maza](https://github.com/nizi) .
-
- - Development:
-	- In 2010  [Damien ford](mailto:damfo@gmail.com) continued the project with the help of [Tim Devens](https://github.com/timdev)  for the management.
-	- The project moved on [Gitswitch](https://gitswitch.com) last summer
-	- And now  [Microhard](https://www.microhard.com) is the official publisher
+ - Origin:  
+	created by [N-z0](mailto:syslog@laposte.net) a long time ago...
 
 
 ## ❤️ Special thanks
  - [Wikipedia](https://www.wikipedia.org)  
-	Gave us so much knowledge...
- - The R.S.A.  
-	For providing infrastructure material and active solidarity.
- - Janice Bastos  
-	So much grateful for all the love given.
+	Giving us so much knowledge...
 
